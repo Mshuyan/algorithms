@@ -1,7 +1,6 @@
 # 红黑树
 
-> 参考资料：[什么是红黑树](https://zhuanlan.zhihu.com/p/31805309)
->
+> 参考资料：[什么是红黑树](https://zhuanlan.zhihu.com/p/31805309) 
 >
 
 + 二叉查找树
