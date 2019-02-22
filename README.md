@@ -4,6 +4,7 @@
 + [红黑树](red-black-tree/red-black-tree.md)
 + [BTree](BTree/BTree.md)
 + [B+Tree](B+Tree/B+Tree.md) 
++ [哈希表](hashTable/hashTable.md) 
 + 整理
   + [判断链表有环](./arrange/判断链表有环.md)
   + 大整数相乘 [上](https://mp.weixin.qq.com/s/GA02XbRvMq0l6MZYeH-W3w) [下](https://mp.weixin.qq.com/s/lhCm_oq3QFx_yoFSNLaXng)
