@@ -8,13 +8,13 @@
 + [B+Tree](B+Tree/B+Tree.md) 
 + [哈希表](hashTable/hashTable.md) 
 + [哈希链表](LinkedHashMap/LinkedHashMap.md) 
-+ 二叉堆
++ [堆](stack/stack.md) 
 
 ## 算法
 
 + [复杂度](complexity/complexity.md) 
 + [LRU算法](LRU/LRU.md) 
-+ 布隆过滤器
++ [布隆过滤器](BloomFilter/BloomFilter.md) 
 
 ## 案例
 
