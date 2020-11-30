@@ -1,5 +1,7 @@
 # algorithms
 
+> + 数据结构动画演示：https://www.cs.usfca.edu/~galles/visualization/Algorithms.html
+
 ## 数据结构
 
 + [二叉树](https://www.jianshu.com/p/e1c9e27ceb2b) 
